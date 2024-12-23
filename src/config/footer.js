@@ -54,21 +54,21 @@ export const footerLists = [
 		  title: 'UG Manual',
 		  slug: 'https://academics.iitp.ac.in/images/regulation/B.Tech_Ordinance_2019_onwards.pdf',
 		},
+		// {
+		//   title: 'Course Template (B.Tech, BS, Dual Degree)',
+		//   slug: 'https://example.com/course-template',
+		// },
+		// {
+		//   title: 'Exam Schedule',
+		//   slug: 'https://example.com/exam-schedule',
+		// },
 		{
-		  title: 'Course Template (B.Tech, BS, Dual Degree)',
-		  slug: 'https://example.com/course-template',
+		  title: 'Academic Calendar 2025',
+		  slug: 'https://academics.iitp.ac.in/images/tt/Calendar-Spring-2025.pdf',
 		},
 		{
-		  title: 'Exam Schedule',
-		  slug: 'https://example.com/exam-schedule',
-		},
-		{
-		  title: 'Academic Calendar 2024',
-		  slug: 'https://academics.iitp.ac.in/images/tt/Academic_Calender_Spring_2024.pdf',
-		},
-		{
-		  title: 'List of Holidays 2024',
-		  slug: 'https://academics.iitp.ac.in/images/tt/Academic_Calender_Spring_2024.pdf',
+		  title: 'List of Holidays 2025',
+		  slug: 'https://academics.iitp.ac.in/images/tt/Calendar-Spring-2025.pdf',
 		},
 	  ],
 	},
